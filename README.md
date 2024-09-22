@@ -7,7 +7,7 @@
 ![meeting](./Images/Comments.png)
 
 ### Dashboard Page
-![Home](./Images/Dashboard.png)
+![Home](./Images/Dasboard.png)
 
 ### Post View
 ![meeting](./Images/Post.png)
